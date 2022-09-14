@@ -1,5 +1,5 @@
 # Open Government Data (OGD) und Statistik in Uster: Eine «Community of Pratice» der Stadt Uster zur Arbeit mit Daten
-In der Stadt Uster steht füf statistische Analysen die Statistiksoftware RStudio[https://de.wikipedia.org/wiki/RStudio]
+In der Stadt Uster steht füf statistische Analysen die Statistiksoftware [RStudio](https://de.wikipedia.org/wiki/RStudio)
 
 EINE «COMMUNITY OF PRACTICE» DER STADT ZUR ARBEIT MIT (OFFENEN) DATEN UND STATISTISCHEN ANALYSEN
 
