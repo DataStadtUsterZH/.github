@@ -1,7 +1,7 @@
 # Open Government Data (OGD) und Statistik in Uster: Eine «Community of Pratice» der Stadt Uster zur Arbeit mit Daten
 In der Stadt Uster steht füf statistische Analysen die Statistiksoftware [RStudio](https://de.wikipedia.org/wiki/RStudio) zur Verfügung. Die Software ist Open Source und kann bei der städtischen Informatik kostenlos freigeschalten werden. Applikationsverantwortlicher ist Andreas Wyss. In der «Community of Pratice» tauschen wir uns über unsere Erfahrungen aus und unterstützen uns gegenseitig bei Herausforderungen.
 
-## Eine kurze Einführung zur Bedeutung von Daten in der öffentlichen Verwaltung
+## Zur Bedeutung von Daten in der öffentlichen Verwaltung
 Im Alltag bilden Daten wichtige Grundlagen um gewisse Leistungen überhaupt anbieten resp. erbringen zu können. Im Zuge der Digitalisierung nimmt die Bedeutung von Daten weiter zu. Daten und die Verknüpfung von verschiedenen Datenbeständen können als Grundlage für Entscheidungen dienen oder neue Dienstleistungen ermöglichen.
 
 Die Stadt Uster arbeitet in verschiedenen Systemen mit einer grossen Anzahl an Daten. Aus diesen lassen sich mit geeigneten Mitteln Erkenntnisse gewinnen und nutzbar machen. Auch Onlinedienste sind auf eine guten Datenbasis angewiesen und bauen nicht selten auf diesen auf.
@@ -17,14 +17,15 @@ Die Arbeit für und in der Community wird im Rahmen der regulären Anstellung au
 
 Wir organisieren uns grundsätzlich über MS Teams sowie Ad-Hoc-Treffen und bewirtschaften eine gemeinsame GitHub-Organisation. Zudem besteht ein gemeinsame Ablage auf dem S-Laufwerk, um mit vertraulichen Daten arbeiten zu können. Interessierte sind herzlich eingeladen und erhalten bei Bedarf eine Einleitung in die Funktionsweise der unterschiedlichen Systeme.
 
-## Eine kurze Einführung
+## Eine kurze Einführung in R und R Studio
 R und RStudio steht als Softwarepaket auf Computer der Stadt Uster zur Verfügung und kann, da es sich um Open Source Software handelt auch auf eigenen Geräten kostenlos installiert werden. Wenn jemand R und RStudio kennenlernen und einsetzen will stehen wir gerne unterstützend zur Seite.
 
 **R** ist eine freie Programmiersprache für statistische Berechnungen und Grafiken. Zahlreiche frei verfügbare Pakete enthalten zusätzliche Funktionen, um Daten zu analysieren, ebenso können eigene Funktionen erstellt werden. R grenzt sich in mehrerer Hinsicht von anderen bekannten Statistik-Umgebungen ab. Es lassen sich damit auch sehr komplexe Aufgaben lösen und automatisieren.
 
 **RStudio** ist eine integrierte Open-Source-Entwicklungsumgebung und grafische Benutzeroberfläche für die Statistik-Programmiersprache R.
 
-**R-Package UsteR**: Über das R-Package UsteR können diverse Ustermer Datensätze sowie Uster-Spezifische Funktionen genutzt werden. Wenn das R-Package auf einem Computer der Stadt eingesetzt wird, stehen zudem auch einige nicht-öffentliche Daten zur Verfügung. Das Package wird kontinuierlich weiterentwickelt und neue Funktionen und Daten eingebunden. Das Package steht allen städtischen Mitarbeitenden zur Nutzung zur Verfügung: https://github.com/DataStadtUsterZH/UsteR
+## R-Package UsteR
+Über das R-Package UsteR können diverse Ustermer Datensätze sowie Uster-Spezifische Funktionen genutzt werden. Wenn das R-Package auf einem Computer der Stadt eingesetzt wird, stehen zudem auch einige nicht-öffentliche Daten zur Verfügung. Das Package wird kontinuierlich weiterentwickelt und neue Funktionen und Daten eingebunden. Das Package steht allen städtischen Mitarbeitenden zur Nutzung zur Verfügung: https://github.com/DataStadtUsterZH/UsteR
 
 ## Weiterführende Links
 * Offizielle R-Webseite: https://www.r-project.org/ 
