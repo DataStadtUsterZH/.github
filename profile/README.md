@@ -24,6 +24,10 @@ R und RStudio steht als Softwarepaket auf Computer der Stadt Uster zur Verfügun
 
 **RStudio** ist eine integrierte Open-Source-Entwicklungsumgebung und grafische Benutzeroberfläche für die Statistik-Programmiersprache R.
 
+## Installation von R und RStudio
+* R und RStudio kann bei der städtischen Informatik kostenlos freigeschalten werden und steht nach dem Neustart auf dem städtischen Computer zur Verfügung. Es ist jedoch nicht über Remote zugänglich.
+* Nach der Installation muss unbedingt folgende Anpassung an den Einstellungen vorgenommen werden: Global option -> Packages -> *UNCHECK* Use secure download method for HTTP
+
 ## R-Package UsteR
 Über das R-Package UsteR können diverse Ustermer Datensätze sowie Uster-Spezifische Funktionen genutzt werden. Wenn das R-Package auf einem Computer der Stadt eingesetzt wird, stehen zudem auch einige nicht-öffentliche Daten zur Verfügung. Das Package wird kontinuierlich weiterentwickelt und neue Funktionen und Daten eingebunden. Das Package steht allen städtischen Mitarbeitenden zur Nutzung zur Verfügung: https://github.com/DataStadtUsterZH/UsteR
 
