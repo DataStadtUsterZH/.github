@@ -1,7 +1,7 @@
 # Open Government Data (OGD) und Statistik in Uster: Eine «Community of Pratice» der Stadt Uster zur Arbeit mit Daten
-In der Stadt Uster steht füf statistische Analysen die Statistiksoftware [RStudio](https://de.wikipedia.org/wiki/RStudio) zur Verfügung. Die Software ist Open Source und kann bei der städtischen Informatik kostenlos freigeschalten werden. In der «Community of Pratice» tauschen wir uns über unsere Erfahrungen aus und unterstützen uns gegenseitig bei Herausforderungen.
+In der Stadt Uster steht füf statistische Analysen die Statistiksoftware [RStudio](https://de.wikipedia.org/wiki/RStudio) zur Verfügung. Die Software ist Open Source und kann bei der städtischen Informatik kostenlos freigeschalten werden. Applikationsverantwortlicher ist Andreas Wyss. In der «Community of Pratice» tauschen wir uns über unsere Erfahrungen aus und unterstützen uns gegenseitig bei Herausforderungen.
 
-## Daten in der öffentlichen Verwaltung
+## Eine kurze Einführung zur Bedeutung von Daten in der öffentlichen Verwaltung
 Im Alltag bilden Daten wichtige Grundlagen um gewisse Leistungen überhaupt anbieten resp. erbringen zu können. Im Zuge der Digitalisierung nimmt die Bedeutung von Daten weiter zu. Daten und die Verknüpfung von verschiedenen Datenbeständen können als Grundlage für Entscheidungen dienen oder neue Dienstleistungen ermöglichen.
 
 Die Stadt Uster arbeitet in verschiedenen Systemen mit einer grossen Anzahl an Daten. Aus diesen lassen sich mit geeigneten Mitteln Erkenntnisse gewinnen und nutzbar machen. Auch Onlinedienste sind auf eine guten Datenbasis angewiesen und bauen nicht selten auf diesen auf.
