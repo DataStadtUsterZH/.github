@@ -1,4 +1,7 @@
-# OPEN DATA UND STATISTIK USTER: EINE «COMMUNITY OF PRACTICE» DER STADT ZUR ARBEIT MIT (OFFENEN) DATEN UND STATISTISCHEN ANALYSEN
+# Open Government Data (OGD) und Statistik in Uster: Eine «Community of Pratice» der Stadt Uster zur Arbeit mit Daten
+In der Stadt Uster steht füf statistische Analysen die Statistiksoftware RStudio[https://de.wikipedia.org/wiki/RStudio]
+
+EINE «COMMUNITY OF PRACTICE» DER STADT ZUR ARBEIT MIT (OFFENEN) DATEN UND STATISTISCHEN ANALYSEN
 
 ## Daten in der öffentlichen Verwaltung
 Im Alltag bilden Daten wichtige Grundlagen um gewisse Leistungen überhaupt anbieten resp. erbringen zu können. Im Zuge der Digitalisierung nimmt die Bedeutung von Daten weiter zu. Daten und die Verknüpfung von verschiedenen Datenbeständen können als Grundlage für Entscheidungen dienen oder neue Dienstleistungen ermöglichen.
